@@ -1,6 +1,6 @@
 {
   "name": "floating-button-menu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple floating button menu for mobile",
   "main": "./lib/index.js",
   "scripts": {
